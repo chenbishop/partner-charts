@@ -1,0 +1,4 @@
+HelmRepo: https://chenbishop.github.io/kasm-helm
+HelmChart: kasm-demo
+Vendor: Kasm
+DisplayName: Kasm Demo
